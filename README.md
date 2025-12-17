@@ -11,7 +11,7 @@ A Python tool that converts text or files into T9 keypad sequences (like old mob
 ## 🛠️ Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/ahmads/t9-converter.git
+git clone https://github.com/ahmadsb/t9-converter.git
 ```
 2. Navigate to project directory:
 ```bash
